@@ -1,0 +1,15 @@
+{
+    "token": "CHANGE_WITH_YOUR_TOKEN",
+    "channelId": "CHANGE_CHANNEL_ID",
+    "prayerTimes": {
+        "Subuh": {"hour": 4, "minute": 20},
+        "Dzuhur": {"hour": 11, "minute": 49},
+        "Ashar": {"hour": 14, "minute": 50},
+        "Maghrib": {"hour": 17, "minute":54},
+        "Isya": {"hour": 19, "minute": 5}
+    },
+    "puasaReminderTime": {"hour": 0, "minute": 0},
+    "sahurTime": {"hour": 2, "minute": 59},
+    "berbukaTime": {"hour": 17, "minute": 54},
+    "lebaranDate": {"month": 3, "day": 31}
+}
